@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/MarkBin75/Appstarter/blob/master/releases/v1.0.0/Appstarter.zip",
-            "hash": "8db4dc9383a206bba7192b1176ebad468a8408efb7c5e69ea0387a28ea1e835b"
+            "hash": "D9A9FBC284795756A3A49B8FCA182F97A96F53E0BF1D0A21ACC7B2092539FA51"
         }
     },
     "bin": "Appstarter.exe",
