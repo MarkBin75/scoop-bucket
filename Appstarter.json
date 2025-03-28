@@ -1,19 +1,19 @@
 {
     "version": "1.0.0",
-    "description": "La mia app in C#",
-    "homepage": "https://github.com/tuo-utente/miaapp",
+    "description": "Application to manage the start/stop of a list of other applications",
+    "homepage": "https://github.com/MarkBin75/Appstarter",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/tuo-utente/miaapp/releases/download/v1.0.0/miaapp.zip",
-            "hash": "SHA256-HASH-DEL-TUO-ZIP"
+            "url": "https://github.com/MarkBin75/Appstarter/releases/download/v1.0.0/Appstarter.zip",
+            "hash": "D9A9FBC284795756A3A49B8FCA182F97A96F53E0BF1D0A21ACC7B2092539FA51"
         }
     },
-    "bin": "miaapp.exe",
+    "bin": "Appstarter.exe",
     "checkver": {
-        "github": "https://github.com/tuo-utente/miaapp"
+        "github": "https://github.com/MarkBin75/Appstarter"
     },
     "autoupdate": {
-        "url": "https://github.com/tuo-utente/miaapp/releases/download/v$version/miaapp.zip"
+        "url": "https://github.com/MarkBin75/Appstarter/releases/download/v$version/Appstarter.zip"
     }
 }
