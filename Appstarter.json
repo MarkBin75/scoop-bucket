@@ -1,0 +1,19 @@
+{
+    "version": "1.0.0",
+    "description": "La mia app in C#",
+    "homepage": "https://github.com/tuo-utente/miaapp",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/tuo-utente/miaapp/releases/download/v1.0.0/miaapp.zip",
+            "hash": "SHA256-HASH-DEL-TUO-ZIP"
+        }
+    },
+    "bin": "miaapp.exe",
+    "checkver": {
+        "github": "https://github.com/tuo-utente/miaapp"
+    },
+    "autoupdate": {
+        "url": "https://github.com/tuo-utente/miaapp/releases/download/v$version/miaapp.zip"
+    }
+}
