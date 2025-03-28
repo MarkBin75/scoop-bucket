@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/MarkBin75/Appstarter/releases/v1.0.0/Appstarter.zip",
+            "url": "https://github.com/MarkBin75/Appstarter/blob/master/releases/v1.0.0/Appstarter.zip",
             "hash": "D9A9FBC284795756A3A49B8FCA182F97A96F53E0BF1D0A21ACC7B2092539FA51"
         }
     },
@@ -14,6 +14,6 @@
         "github": "https://github.com/MarkBin75/Appstarter"
     },
     "autoupdate": {
-        "url": "https://github.com/MarkBin75/Appstarter/releases/v$version/Appstarter.zip"
+        "url": "https://github.com/MarkBin75/Appstarter/blob/master/releases/v$version/Appstarter.zip"
     }
 }
