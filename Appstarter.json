@@ -1,11 +1,11 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Application to manage the start/stop of a list of other applications",
     "homepage": "https://github.com/MarkBin75/Appstarter",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "http://localhost/releases/Appstarter/v1.0.0/Appstarter.zip",
+            "url": "http://localhost/releases/Appstarter/v1.0.1/Appstarter.zip",
             "hash": "2B92C682D936531E3D892BFDC40C7A033A3EEEE4B3BFF96DE02C796F4304237B"
         }
     },
