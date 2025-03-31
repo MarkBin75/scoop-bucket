@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "http://localhost/releases/Appstarter/v1.0.0/Appstarter.zip",
-            "hash": "d5438f98af9e52187838006aee1201f1f5d0a70ac26f501368d5848b3699b515"
+            "hash": "1CFEF8DBA3F35D1928FAF32CE8687C1ED374C5F475AEEA0724EADD14FBF2FD94"
         }
     },
     "bin": "Appstarter.exe",
